@@ -1,21 +1,19 @@
-# <h1 align="center">Hey, I'm NyxSpecter</h1>
+<h1 align="center">Welcome to the Realm of Shadows</h1>
+<h3 align="center">I'm <strong>NyxSpecter</strong> — Cyber Phantom | Exploit Developer | Black Hat Researcher</h3>
+<p align="center"><i>Silence is my weapon. Shadows are my codebase.</i></p>
+
+---
+
+### 🧠 Who Am I
+- Offensive Security Specialist in stealth mode  
+- Zero-Day Hunter & Vulnerability Researcher  
+- Deep into Reverse Engineering, Exploit Dev & System Internals  
+- I don’t just find bugs... I weaponize them
+
+---
+
+### ⚙️ Tech Arsenal
 <p align="center">
-  <i>Cyber Phantom | Exploit Developer | Black Hat Researcher</i><br>
-  <i>Silence is my weapon. Shadows are my codebase.</i>
-</p>
-
----
-
-### 🧠 About Me
-- Offensive Security enthusiast  
-- Passionate about Zero-Day research and exploit development  
-- Skilled in reverse engineering and low-level systems  
-- Coding in Python, Bash, C, Assembly
-
----
-
-### ⚙️ Languages & Tools
-<p align="left">
   <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/C-black?style=flat-square&logo=c" />
   <img src="https://img.shields.io/badge/Bash-black?style=flat-square&logo=gnubash" />
@@ -28,33 +26,33 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🧿 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NyxSpecter&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NyxSpecter&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔥 Streak Stats
+### 🔥 Activity Heatmap
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyxSpecter&theme=tokyonight" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Digital Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NyxSpecter&theme=tokyonight&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NyxSpecter&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-### 🧿 Quote
+### ⚡ Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NyxSpecter&color=blueviolet&style=flat-square" />
+</p>
+
+---
+
+### 🕶️ Final Note
 <p align="center"><i>"Reverse engineering reality, one exploit at a time."</i></p>
-
----
-
-### ⚡ Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NyxSpecter&color=blueviolet" />
-</p>
