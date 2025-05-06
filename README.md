@@ -26,23 +26,11 @@
 
 ---
 
-### 🧿 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NyxSpecter&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-### 🔥 Activity Heatmap
-<p align="center">
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyxSpecter&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 Digital Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NyxSpecter&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
